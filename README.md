@@ -1,7 +1,7 @@
 # Github-tutorial
 
 ## Introduction
-In this repository, we use the R programming language to create a simple scatter plot. The grammar you used here is basically just the one for Markdown. You can search Google for any specific expression you need.
+In this repository, we use the R programming language to create a simple scatter plot. The grammar you used here is basically just the one for Markdown, which you just learned for Quarto. You can search Google for any specific expression you need.
 
 ## Data
 |    Y    |    X    |
