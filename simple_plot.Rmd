@@ -8,7 +8,7 @@ output: html_document
 ```{r}
 # Basic scatter plot
 x <- c(1, 2, 3, 4, 5)  # X-axis values
-y <- c(1, 2, 3, 4, 5)  # Y-axis values
+y <- c(5, 4, 3, 2, 1)  # Y-axis values
 
-plot(x, y, main = "Simple Plot", xlab = "X-Axis", ylab = "Y-Axis")
+plot(x, y, main = "Simple Plot", xlab = "X-Axis", ylab = "Y-Axis", col = "blue")
 ```
